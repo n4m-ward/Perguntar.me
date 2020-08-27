@@ -18,6 +18,16 @@ e outra onde as perguntas são listadas e podem ser respondidas(não ainda, vou 
 <br>
 <h2>Pagina principal</h2>
 <img src="readme/principal.png" alt="Pagina principal">
+<br>
+<hr>
+<br>
+<h3>Mostrando respostas</h3>
+<img src="readme/respostas.png" alt="mostrando respostas">
+<br>
+<hr>
+<br>
 
 <p>Ela ainda esta bem incompleta, quero adicionar uma sessão de login para autenticar usuario, listando nomes de quem fez o comentario,<br>
 e posteriormente de quem respondeu o mesmo, dentre outras coisas</p>
+<hr>
+<br>
