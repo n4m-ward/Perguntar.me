@@ -2,7 +2,7 @@
 <h2>Um Site de perguntas estilo YaHoo!</h2>
 <h3>Feito em</h3>
 <ul>
-<li>Bootstrap<q>
+<li>Bootstrap</li>
 <li>Node.js</li>
 </li>Mysql</li>
 </ul>
