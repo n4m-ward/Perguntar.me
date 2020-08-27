@@ -22,7 +22,7 @@ e outra onde as perguntas são listadas e podem ser respondidas(não ainda, vou 
 <hr>
 <br>
 <h3>Mostrando respostas</h3>
-<img src="readme/respostas.png" alt="mostrando respostas">
+<img src="readme/resposta.png" alt="mostrando respostas">
 <br>
 <hr>
 <br>
