@@ -1,0 +1,19 @@
+{
+  "name": "5-projetoguiaperguntas",
+  "version": "1.0.0",
+  "description": "plataforma de perguntas e respostas estilo YaHoo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Ward",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "save": "^2.4.0",
+    "sequelize": "^6.3.4"
+  }
+}
