@@ -4,7 +4,7 @@
 <ul>
 <li>Bootstrap</li>
 <li>Node.js</li>
-</li>Mysql</li>
+<li>Mysql</li>
 </ul>
 <hr>
 <p>O site atualmente consiste em duas paginas, uma onde a pergunta é feita, contendo campo de titulo e descrição,<br>
