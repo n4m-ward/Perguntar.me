@@ -86,5 +86,5 @@ app.post('/responder',(req,res)=>{
 
 
 
-app.listen(8080,()=>{
+app.listen(process.env.PORT,()=>{
     console.log('app rodando!')});

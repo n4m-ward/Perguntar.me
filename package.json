@@ -4,6 +4,7 @@
   "description": "plataforma de perguntas e respostas estilo YaHoo!",
   "main": "index.js",
   "scripts": {
+    "start":"node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Ward",
